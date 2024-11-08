@@ -18,10 +18,13 @@ For this project, the dataset was sourced from the Kaggle Store Item Demand Fore
 
 NOTE : Please wait, the file may take up to 5 seconds to load.
 
-## Data Analysis Summary :
+## Data Analysis Summary :-
 
 - After cleaning the data, exploratory data analysis (EDA) was conducted on historical sales data to identify trends, patterns, and seasonality. 
 - Key steps included calculating descriptive statistics, performing correlation analysis to understand relationships with external factors, and decomposing the time series to reveal trend and seasonality.
 - Data visualization techniques such as time series, seasonal, and distribution plots helped uncover patterns, anomalies, and sales distribution characteristics.
   
 These insights provided essential guidance for selecting the appropriate forecasting models.
+
+![image](https://github.com/user-attachments/assets/cbbd86e1-4ac8-40cd-8012-1fdab8af5f96)
+
