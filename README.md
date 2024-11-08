@@ -7,5 +7,6 @@ The project aims to design and implement a robust Forecasting System that accura
 
 ## Google Colab Notebook File Link :-
 
-<a href= "https://colab.research.google.com/drive/1LdB4Im8DENt4ceQNd_ycvmHWrvuWFEOh#scrollTo=JjEyA3m5KF6r">Colab Notebook File</a>
+<a href= "https://colab.research.google.com/drive/1LdB4Im8DENt4ceQNd_ycvmHWrvuWFEOh?usp=sharing">Colab Notebook File</a>
+
 NOTE : Please Wait, the File can take up to 5 seconds to load 
