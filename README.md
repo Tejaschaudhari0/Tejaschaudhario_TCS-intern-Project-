@@ -26,5 +26,23 @@ NOTE : Please wait, the file may take up to 5 seconds to load.
   
 These insights provided essential guidance for selecting the appropriate forecasting models.
 
+
 ![image](https://github.com/user-attachments/assets/cbbd86e1-4ac8-40cd-8012-1fdab8af5f96)
+
+
+## Splitting the Data :-
+
+The dataset was divided into 80% for training and 20% for testing, ensuring an effective evaluation of the model’s efficiency and accuracy.
+
+## Modelling :-
+
+Three forecasting models—SARIMAX, Holt-Winters Exponential Smoothing (HWES), and Prophet—were implemented to predict future demand.
+
+- SARIMAX :  Selected for its ability to capture seasonality and trend.
+- HWES :  Chosen for managing seasonality, trend, and emphasizing recent observations.
+- Prophet :  Used for its flexibility in handling seasonality, holidays, and missing data, with automatic parameter optimization. Each model underwent parameter tuning for improved accuracy.
+  
+
+![image](https://github.com/user-attachments/assets/7fd902c0-aa6e-4206-a14c-4849bdd69627)
+
 
