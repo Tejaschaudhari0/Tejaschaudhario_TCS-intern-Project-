@@ -59,12 +59,12 @@ Three forecasting models—SARIMAX, Holt-Winters Exponential Smoothing (HWES), a
 
 
 
-## Project Insights :
+## Project Insights :-
 
 The project highlights the importance of selecting the right forecasting model for demand prediction. The SARIMAX model proved to be a reliable choice, offering robust predictions. The use of evaluation metrics ensured model accuracy, and the project's approach provides a solid foundation for future forecasting efforts. Additionally, integrating Deep Learning techniques could enhance model performance, leading to more precise demand forecasts and better inventory management.
 
 
-## Conclusion :
+## Conclusion :-
 
 The SARIMAX model was selected as the top-performing forecasting model due to its superior accuracy in predicting demand across diverse stores. Evaluated using MAE, MSE, and RMSE, SARIMAX consistently outperformed HWES and Prophet. The project successfully developed an effective forecasting system, with a well-structured methodology encompassing data cleaning, analysis, and model fine-tuning. The exploration of Deep Learning (DL) techniques offers exciting potential for further improving forecasting accuracy.
 
