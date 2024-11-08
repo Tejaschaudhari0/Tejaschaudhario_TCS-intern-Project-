@@ -7,10 +7,10 @@ The project aims to design and implement a robust Forecasting System that accura
 
 For this project, the dataset was sourced from the Kaggle Store Item Demand Forecasting Challenge, comprising 913,000 rows organized into four crucial columns—Date, Store, Item, and Sales. This dataset represents a comprehensive repository of historical sales data. The dataset is described as follows :
 
-•	Date: Sales date without holiday effects or store closures.
-•	Store: Store ID, providing a unique identifier for each store.
-•	Item: Product ID, offering a distinct identification number for each product.
-•	Sales: Quantity of products sold, indicating the number of products sold from a specific store on a specific date.
+- Date: Sales date without holiday effects or store closures.
+-	Store: Store ID, providing a unique identifier for each store.
+-	Item: Product ID, offering a distinct identification number for each product.
+-	Sales: Quantity of products sold, indicating the number of products sold from a specific store on a specific date.
 
 ## Google Colab Notebook File Link :-
 
